@@ -9,6 +9,10 @@
 
 ###
 
+<h2 align="left">What I Learned 🤖</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" width="70" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="70" alt="java logo"  />
@@ -22,7 +26,7 @@
 
 ###
 
-<h2 align="left">Know me more!</h2>
+<h2 align="left">Know me more! 🤜🤛</h2>
 
 ###
 
