@@ -22,6 +22,10 @@
 
 ###
 
+<h2 align="left">Know me more!</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/tan-yi-qing-130a06209/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.youtube.com/channel/UC9rA1qbvDxBB8GvhlnB_3WA"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
@@ -29,7 +33,7 @@
 
 ###
 
-<p align="left">Number of Visitors:</p>
+<h2 align="left">Number of Visitors:</h2>
 
 ###
 
