@@ -38,7 +38,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/tanyiqing/tanyiqing/blob/output/snake.svg" alt="Snake animation" />
-
-###
