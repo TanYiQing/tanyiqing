@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tan Yi Qing and I'm a Software Engineering student, from Penang, Malaysia. I am passionate in programming, and hope to work better in this field in the future.</h2>
+<h2 align="left">Hi 👋! My name is Tan Yi Qing and I'm a Software Engineering student, from Nothern University of Malaysia. I am from Penang, Malaysia and I am passionate in programming, and hope to work better in this field in the future.</h2>
 
 ###
 
